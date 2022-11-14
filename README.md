@@ -1,0 +1,4 @@
+# indexhtml
+SKELETON OF AN HTML DOCUMENT 
+
+##### COURTESY: STUTERN
